@@ -1,0 +1,7 @@
+Learn how to implement MQTT communication using your W6300-EVB-PICO2 board with CircuitPython. This tutorial shows you how to connect to Adafruit IO's MQTT broker, publish data, and control devices remotely from anywhere in the world.
+
+What you'll learn:
+- MQTT communication basics with publish
+- Connecting to Adafruit IO's cloud service
+- Sending data through MQTT feeds
+- Remote control of LEDs and reading sensor data
