@@ -1,0 +1,7 @@
+This lightning-fast tutorial shows you how to implement high-speed UDP communication on your board, perfect for real-time applications where every millisecond counts!
+
+In this quick setup, you'll learn:
+- How to create UDP sockets with SOCK_DGRAM for maximum speed
+- Instant message sending/receiving without TCP handshakes
+- Bidirectional communication on a single socket
+- Real-time echo server implementation
